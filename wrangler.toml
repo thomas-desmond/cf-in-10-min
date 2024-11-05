@@ -24,6 +24,10 @@ pages_build_output_dir = ".vercel/output/static"
 [ai]
 binding = "AI"
 
+[[kv_namespaces]]
+binding = "COMPLIMENTS"
+id = "eba1f2cef1fe4345ba57f21ab3c7f3f8"
+
 # Bind a D1 database. D1 is Cloudflare’s native serverless SQL database.
 # Docs: https://developers.cloudflare.com/pages/functions/bindings/#d1-databases
 # [[d1_databases]]

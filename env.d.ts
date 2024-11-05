@@ -4,4 +4,5 @@
 
 interface CloudflareEnv {
     AI: AiNamespace;
+    COMPLIMENTS: KVNamespace;
 }
